@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../crud"
+		},
+		{
+			"path": "../database"
+		},
+		{
+			"path": "../session"
+		}
+	],
+	"settings": {}
+}
